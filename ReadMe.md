@@ -586,6 +586,10 @@ Driver SHA256: `bd17231833aa369b3b2b6963899bf05dbefd673db270aec15446f2fab4a17b5a
 | Windows 11 21H2-23H2 | 22000-22631 | Yes | Yes |No |
 | Windows 11 24H2/25H2 | 26100-26200 | Yes | Yes |Yes |
 
+<img width="1947" height="955" alt="image" src="https://github.com/user-attachments/assets/34c9e3bc-ffef-41db-909e-5e3d09708e6e" />
+
+
+
 > **Note:** The vulnerable 333KB KslD.sys must be present on the target system or will be deployed from the embedded payload. Systems freshly installed with recent Defender versions may only have the patched 82KB version in `drivers\wd\`.
 
 ---
