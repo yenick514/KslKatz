@@ -639,7 +639,7 @@ KslKatz/
 ## Credits
 
 - [**Mimikatz**](https://github.com/gentilkiwi/mimikatz) by Benjamin Delpy -- LSA structure definitions, signature patterns, credential decryption logic, and the foundational research that made all of this possible
-- [**GhostKatz**](https://github.com/RainbowDynamix/GhostKatz) by RainbowDynamix, Julian Pena and Eric Esquivel -- local signature scan approach, WDigest list walking, and the Superfetch address translation concept
+- [**GhostKatz**](https://github.com/RainbowDynamix/GhostKatz) by Julian Pena and Eric Esquivel -- local signature scan approach, WDigest list walking, and the Superfetch address translation concept
 - [**KslDump**](https://github.com/andreisss/KslDump)  by Andrea Bocchetti --  KslD.sys BYOVD vulnerability discovery, IOCTL reverse engineering, and the original Python PoC
 
 ---
