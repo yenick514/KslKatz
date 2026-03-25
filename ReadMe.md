@@ -586,7 +586,8 @@ Driver SHA256: `bd17231833aa369b3b2b6963899bf05dbefd673db270aec15446f2fab4a17b5a
 | Windows 11 21H2-23H2 | 22000-22631 | Yes | Yes |No |
 | Windows 11 24H2/25H2 | 26100-26200 | Yes | Yes |Yes |
 
-<img width="1947" height="955" alt="image" src="https://github.com/user-attachments/assets/c2ab6b7b-65ff-484e-94fd-1f2a495bbb70" />
+<img width="1947" height="955" alt="image" src="https://github.com/user-attachments/assets/66ee6c2e-4902-4ba3-bb63-4fc4a6203a0a" />
+
 
 
 
