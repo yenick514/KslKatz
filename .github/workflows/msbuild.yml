@@ -48,6 +48,6 @@ jobs:
       with:
       name: msbuild-output
       path: |
-      **/bin/Release/**
-      **/x64/Release/**
-      **/Release/**
+        **/bin/Release/**
+        **/x64/Release/**
+        **/Release/**
